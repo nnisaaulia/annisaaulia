@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🧇 My new app")
+st.title("🧇 My New APP 🗯")
 st.write(
     "lets go"
 )
